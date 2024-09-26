@@ -1,4 +1,4 @@
-Here’s a sample **README** description for your **Parallax Music App** project, incorporating an image and video:
+
 
 ---
 
